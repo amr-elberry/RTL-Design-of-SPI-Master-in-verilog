@@ -5,7 +5,7 @@
 #### We need an SPI module  When you connect a microcontroller to a sensor, display, or other module, do you ever think about how the two devices talk to each other? What exactly are they saying? How are they able to understand each other?
 
 
-## INTRODUCTION TO SPI COMMUNICATION 
+## *INTRODUCTION TO SPI COMMUNICATION* 
 
 #### SPI is a common communication protocol used by many different devices. For example, SD card reader modules, RFID card reader modules, and 2.4 GHz wireless transmitters/receivers all use SPI to communicate with microcontrollers.
 
